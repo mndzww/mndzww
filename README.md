@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋! My name is Naufal </h2>
-  <h3 align="left"> and I'm a undergraduate Student from Indonesia. Thanks to come my GitHub Page ^_^</h3>
+  <h5 align="left"> and I'm a undergraduate Student from Indonesia. Thanks to come my GitHub Page ^_^</h5>
 
 ###
 
