@@ -1,7 +1,7 @@
 # 💫 About Me:
 <h1 align="left">Hi 👋! My name is Naufal </h1>
 <h3 align="center">Thanks to come my GitHub Page </h2>
-<h3 align="left"> I'm a undergraduate Student from Indonesia. Beginner prgrammer who love about Machine Learning, Mobile Apps developer and Cloud Computing Thanks to come my GitHub Page ^_^</h3>
+<h4 align="left"> I'm a undergraduate Student from Indonesia. Beginner prgrammer who love about Machine Learning, Mobile Apps developer and Cloud Computing Thanks to come my GitHub Page ^_^</h4>
 
 
 
