@@ -1,5 +1,7 @@
 # 💫 About Me:
-a<br>b<br>c<br>d<br>e
+<h1 align="left">Hi 👋! My name is Naufal </h1>
+  <h3 align="left"> I'm a undergraduate Student from Indonesia. Thanks to come my GitHub Page ^_^</h3>
+
 
 
 ## 🌐 Socials:
